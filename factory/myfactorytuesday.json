@@ -1,0 +1,9 @@
+{
+	"name": "myfactorytuesday",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "68e81213-2f42-4624-9740-82e81639136c",
+		"tenantId": "6c637512-c417-4e78-9d62-b61258e4b619"
+	}
+}
